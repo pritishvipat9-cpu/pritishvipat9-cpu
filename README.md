@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Pritish 👋
 
-<!--
-**pritishvipat9-cpu/pritishvipat9-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist with experience in Machine Learning, Data Analysis, Predictive Modeling, SQL, Python, and Power BI.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- Power BI
+- Data Visualization
+- Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Employee Retention Prediction
+- Credit Score Classification
+- Used Car Price Prediction
+- Solar Energy Production Prediction
+- Rain Forecasting
+- Salary Range Prediction 
+- Shooting Incident Fatality Prediction 
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/pritish-vipat-79b4041b2
